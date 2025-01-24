@@ -1,0 +1,2 @@
+# AnshinJisho
+Simplifies learning Japanese
